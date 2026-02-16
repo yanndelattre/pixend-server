@@ -1,0 +1,36 @@
+je veux instaurer les "serveurs" : un regroupement de plusieurs salons de discussion, pouvant être autour d'un thème, d'une personne… le bouton "créer un salon " doit être remplacer par créer un serveur, dans lequel ce créera automatiquement un salon de discussion "général <nom du serveur>". on pourra créer d'autres groupes dans un serveur sue l'on a créer.
+attention? il faut impérativement être connecté avec son compte pour créer un salon ou un serveur, un anonyme ne le peut pas.
+
+tout les utilisateurs de pixend seront appelés les "pixenders".
+je voudrais un système de grades, appelés "ranks": les utilisateurs auront un petit carré de la couleur correspondante a leur "rank".
+
+un carré gris serait le rank le plus basique : "user" (un rôle normal en somme).
+
+les autres couleurs seront des roles spéciaux, ne s'apliquent que dans le salon, ou le serveur, dans lequel il fait effet (ex: je suis admin du serveur "mon-serveur!" , mais pas dans le serveur qu'un autre utilisateur a créé.
+certains ont un role en rapport avec les règles du salon ou du serveur (quand on crée un nouveau serveur ou salon, il faut remplir un champ de "règles", qui sera affiché dans le menu du salon ou du serveur) :
+
+un carré rouge: "guardian", une personne choisie par l'administrateur pour surveiller le salon, et punir ceux qui dépassent les règles du salon )
+pouvoirs spéciaux
+SI UN USER ENFREINT LES REGLES DU SALON :
+il peut sanctionner un user en lui envoyant un message de mise en garde,
+il peut bannir du salon un user pendant une durée de temps allant de 1min a 24 heures,
+il peut envoyer une demande de bannissement a l'admin du serveur  
+
+
+un carré bleu : "admin", l'utilisateur ayant créé le salon ( rank effectif seulement dans le salon en question).
+pouvoirs spéciaux
+contrairement a un "guardian", l'admin peut surveiller tout le serveur, et pas qu'un salon.
+SI UN USER OU UN GUARDIAN ENFREINT LES REGLES DU SALON/SERVEUR : 
+il peut sanctionner un pixender (user ou guardian) en lui envoyant un message de mise en garde,
+il peut bannir du salon un pixender pendant une durée de temps allant de 1min a 24 heures,
+il peut bannir pendant une durée de 7 jours a deux mois un pixender, après avoir remplit un formulaire de bannissement qui contiendra la cause du bannissement et le nom du compte du bannis, qui recevra ce formulaire en privé directement.
+
+autres pouvoirs spéciaux
+il peut nommer des "users" "guardians", en trouvant leurs compte, et les promouvant au rank de "guardian" (seulement dans le salon en question). il ne peut y avoir que 6 "guardians" par salon maximum.
+
+
+je voudrais que l'on puisse, quand on créer un seveur, que l'on puisse mettre "serveur publique" ou "seveur privé". le premier serait un serveur que l'on peut rejoindre librement; tandis que le 2e proposerais une demande. la demande serait envoyé a l'administrateur du serveur et aux guardians du salon "général <nom du serveur>", qui pourront autoriser ou non la demande, et donc qui pourrait faire entrer l'utilisateur dans le serveur.tous les pixenders pourraient rechercher dans une barre de recherche des noms de serveurs.
+
+il y aura aussi une page de discusion privée : une méssagerie, dans laquelle on retrouvera tout nos contacts avec lesquels on a eu une discussion et nos amis; dans laquelle on pourra parler a un pixender en tete à tete. on pourra aussi "bloquer" un pixender : nous quiterons sa liste d'amis et il ne pourra plus nous demander en ami, et ne pourra ni nous envoyer de messages, ni nous rejoindre dans ungroupe grace au bouton " rejoindre" ( voir plus bas
+
+je veux une vrai page de profil, pas un petit menu, mais une age a part entière dans laquelle on pourait changer sa photo de profil, son nom, dans laquelle les ranks spéciaux seraient affichés (ex : <nom d'utilisateur>, admin du serveur "...", guardian du groupe "...","..." et "..." ), aini que la datte de création du compte, et les serveurs mis en favoris( les serveurs que l'on préfère, il faut aller dans le men du serveur pour cliquer su r le bouton " favoris": ainsi , on pourra beaucoup plus facilement accedre au serveur,l faudra cliquer dessus dans sa page de profil.il y aura aussi les amis : on pourra cliker dessu pour voir leurs comptes, ou cliquer sur un bouton présent a coté de chaques amis pour commencer une discussion privée.les autres pixenders pourraient voir cette page, et regarder les infos que j'ai dites. ils y aurait aussi un boutton "contacter" et "définir en tant qu'ami": le premier nous transportera vers la page de discussion privée, sur la discussion avec ce pixender.le deuxieme permetra d'ajouter le pixender a qui apartient le profil en amis. on pourra d'ailleur  voir dans notre page de profil lesquels de nos amis sont en lignes, et dans quels salons.on trouvera un bouton pour les rejoindre appelé "rejoindre" dans le salon ou ils sont. (remarque , on ne peut pas ajouter en amis un anonyme).
